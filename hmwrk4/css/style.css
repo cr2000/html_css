@@ -1,0 +1,43 @@
+ont-face{
+	src: url('../fonts/MavenPro-Bold.ttf');
+	font-family: 'Maven Pro', sans-serif;
+}
+
+header{
+	background-color:  #3b5998;
+}
+
+#facebooktitle{
+	text-decoration: none;
+	color: white;
+	font-family: 'Maven Pro', sans-serif;
+	font-size: 140%;
+	
+
+}
+
+header  td{
+	color: white;
+
+}
+
+td ~ td{
+		
+ 		padding: 30px 0;
+  		border: 0px solid green;
+
+	
+}
+
+
+body a{
+	color: white;
+}
+
+main{
+	background-color: lightblue;
+}
+
+footer a{
+	color: blue;
+}

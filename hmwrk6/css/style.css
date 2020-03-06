@@ -1,0 +1,124 @@
+/*style.css*/
+
+.parent{
+	width: 300px
+}
+
+.parentbox{
+	background-color: lightblue;
+	clear: both;
+	position: relative;
+}
+
+.childbox1{
+position: absolute;
+height: 8em;
+width: 30%;
+background-color: grey;
+
+
+border-width: 5px 5px;
+border-style: solid;
+border-color: black;
+box-sizing: border-box;
+
+}
+
+.childbox2{
+position: absolute;
+height: 7.5em;
+width: 30%;
+top: 80px;
+
+background-color: grey;
+
+
+border-width: 5px 5px;
+border-style: solid;
+border-color: black;
+box-sizing: border-box;
+}
+
+
+.childbox3{
+height: 200px;
+background-color: red;
+
+
+border-width: 5px 5px;
+border-style: solid;
+border-color: black;
+box-sizing: border-box;
+}
+
+.parent02{
+	background-color: lightblue;
+	clear: both;
+	position: relative;
+
+}
+
+.child1{
+position: absolute;
+height: 8em;
+width: 30%;
+background-color: blue;
+
+
+border-width: 5px 5px;
+border-style: solid;
+border-color: black;
+box-sizing: border-box;
+}
+
+.child2{
+position: absolute;
+height: 8em;
+width: 61%;
+background-color: pink;
+left: 5.6em;
+
+
+border-width: 5px 5px;
+border-style: solid;
+border-color: black;
+box-sizing: border-box;
+
+}
+
+.child3{
+position: absolute;
+height: 4em;
+width: 10%;
+background-color: pink;
+
+left: 16.88em;
+
+
+ 
+
+
+border-width: 5px 5px;
+border-style: solid;
+border-color: black;
+box-sizing: border-box;
+
+}
+
+.child4{
+position: absolute;
+height: 4em;
+width: 10%;
+background-color: yellow;
+top: 4em;
+left: 16.88em;
+
+
+ 
+
+
+border-width: 5px 5px;
+border-style: solid;
+border-color: black;
+box-sizing: border-box;
+}

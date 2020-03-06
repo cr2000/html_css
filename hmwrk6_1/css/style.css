@@ -1,0 +1,298 @@
+/*style.css*/
+
+*{
+	box-sizing: border-box;
+}
+
+.box{
+	width: 800px;
+	height:800px;
+	background-color: lightgrey;
+	margin: 100px auto;
+}
+
+.row1{
+	height: 75%;
+	width: 100%;
+	position: relative;
+
+}
+
+.column1{
+	
+	height: 100%;
+	width: 60%;
+	float: left;
+	position: relative;
+	/*background-color: blue;*/
+}
+
+.baby1{
+	height: 20%;
+	width: 100%;
+	/*background-color: pink;*/
+}
+
+.part1{
+	height: 100%;
+	width: 40%;
+	background-color: #cfe6d5;
+	border-width: 10px 0px 10px 10px;
+	border-style: solid;
+	border-color: black;
+	float: left;
+}
+
+.part2{
+	height: 100%;
+	width: 60%;
+	background-color: #cfe6d5;
+	float: left;
+	border-width: 10px;
+	border-style: solid;
+	border-color: black;
+
+}
+
+.parent1{
+	width: 100%;
+	height: 80%;
+	/*background-color: blue;*/
+	position: relative;
+}
+
+.baby2{
+	position: absolute;
+	height: 100%;
+	width: 20%;
+	background-color: blue;
+	float: left;
+}
+
+.part3{
+	height: 40%;
+	width: 100%;
+	background-color: #cfe6d5;
+	border-width: 0px 10px;
+	border-style: solid;
+	border-color: black;
+}
+
+.part4{
+	height: 60%;
+	width: 100%;
+	background-color: #cfe6d5;
+	border-width: 10px;
+	border-style: solid;
+	border-color: black;
+
+}
+
+
+.baby3{
+
+	
+	height: 80%;
+	width: 80%;
+	background-color: red;
+	float: right;
+	border-width: 0px 10px 10px 0px;
+	border-style: solid;
+	border-color: black;
+
+}
+
+.baby4{
+	width: 80%;
+	height: 20%;
+	background-color: blue;
+	float: right;
+	border-width: 0px 10px 10px 0px;
+	border-style: solid;
+	border-color: black;
+	
+}
+
+.part6{
+	float: left;
+	width: 50%;
+	height: 100%;
+	background-color: black;
+
+}
+
+.part7{
+	float: left;
+	width: 50%;
+	height: 100%;
+	background-color: #cfe6d5;
+}
+
+
+.column2{
+	width: 30%;
+	height: 100%;
+	background-color: #cfe6d5;
+	float: left;
+	border-width: 0px 10px 10px 0px;
+	border-style: solid;
+	border-color: black;
+	
+}
+
+.part8{
+	width: 100%;
+	height: 20%;
+	background-color: yellow;
+	border-width: 10px 0px 10px 0px;
+	border-style: solid;
+	border-color: black;
+}
+
+
+.part9{
+	width: 100%;
+	height: 32%;
+	background-color: yellow;
+	border-width: 0px 0px 10px 0px;
+	border-style: solid;
+	border-color: black;
+}
+
+.baby5{
+	width: 100%;
+	height: 32%;
+	/*background-color: green;*/
+	border-width: 0px 0px 10px 0px;
+	border-style: solid;
+	border-color: black;
+}
+
+.part10{
+	width: 52%;
+	height: 100%;
+	background-color: #cfe6d5;
+	border-width: 0px 0px 0px 0px;
+	border-style: solid;
+	border-color: black;
+	float: left;
+
+}
+
+.part11{
+	width: 48%;
+	height: 100%;
+	background-color: #cfe6d5;
+	
+	float: right;
+
+}
+
+
+
+
+
+
+
+.column3{
+	width: 10%;
+	height: 100%;
+	background-color: #cfe6d5;
+	float: left;
+	border-width: 10px 10px 10px 0px;
+	border-style: solid;
+	border-color: black;
+}
+
+
+.row2{
+	height: 25%;
+	width: 100%;
+	position: relative;
+	/*background-color: yellow;*/
+}
+
+.part13{
+	height: 100%;
+	width: 12%;
+	background-color: yellow;
+	border-width: 0px 10px 10px 10px;
+	border-style: solid;
+	border-color: black;
+	float: left;
+}
+
+.baby6{
+	height: 100%;
+	width: 23.5%;
+	/*background-color: black;*/
+	float: left;
+	border-width: 0px 10px 10px 0px;
+	border-style: solid;
+	border-color: black;
+}
+
+.part14{
+	width: 100%;
+	height: 50%;
+	background-color: black;
+}
+
+.part15{
+	width: 100%;
+	height: 50%;
+	background-color: #cfe6d5;
+
+}
+
+.bigbaby{
+	width: 55%;
+	height: 100%;
+	background-color: #cfe6d5;
+	float: left;
+	border-width: 0px 10px 10px 0px;
+	border-style: solid;
+	border-color: black;
+}
+
+.baby7{
+	width: 100%;
+	height: 70%;
+	background-color: blue;
+	border-width: 0px 0px 10px 0px;
+	border-style: solid;
+	border-color: black;
+}
+
+.gc1{
+	width: 42%;
+	height: 100%;
+	background-color: green;
+}
+ .part16{
+ 	width: 100%;
+ 	height: 60%;
+ 	background-color: #cfe6d5;
+ 	border-width: 0px 10px 10px 0px;
+	border-style: solid;
+	border-color: black;
+ }
+
+ .part17{
+ 	width: 100%;
+ 	height: 40%;
+ 	background-color: black;
+ 	border-width: 0px 10px 10px 0px;
+	border-style: solid;
+	border-color: black;
+ }
+
+
+ .part18{
+ 	width: 100%;
+ 	height: 100%;
+ 	background-color: red;
+ 	border-width: 0px 10px 10px 0px;
+	border-style: solid;
+	border-color: black;
+ }

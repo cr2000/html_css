@@ -1,0 +1,132 @@
+*{
+	color: blue;
+}
+
+a > dd{
+	color: #e3fc03; 
+}
+/*????*/
+
+
+
+
+img {
+  max-width: 20%;
+  height: 200px;
+
+}
+
+#return{
+    display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 40%;
+}
+
+@font-face{
+	src: url('../fonts/Tomorrow-Regular.ttf');
+	font-family: "Tomorrow-Regular";
+}
+
+	
+li{
+	font-family: "Tomorrow-Regular", sans-serif;
+}
+
+a{
+	font-family: 'Mr De Haviland', cursive;
+	font-size: 170%;
+	letter-spacing: 3px;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+
+p{
+	font-family: 'Indie Flower', cursive;
+}
+
+#gallery{
+	font-family: 'Open Sans Condensed', cursive;
+}
+
+header{
+	background-color: rgba(50, 168, 82, 0.7);
+	font-size: 150%;
+	letter-spacing: 5px;
+	word-spacing: 20px;
+	text-align: center;
+}
+
+h1{
+	font-family: 'Mansalva', cursive;
+
+}
+
+fieldset{
+	background-color: rgba(217, 235, 54, 0.4);
+	max-width: 70%;
+	text-align: left;
+}
+
+dd > a{
+	font-family: 'Vibes', cursive;
+}
+
+ol > li{
+	text-align: right;
+	text-decoration: none;
+	list-style-type: none;
+ 	margin: 0;
+ 	padding: 0;
+}
+/*kako da gji snema tochkite od ordered list?*/
+
+
+ol { 
+    counter-reset: item;
+    list-style-type: none;
+}
+
+footer{
+	background-color: rgba(209, 130, 179, 0.5);
+}
+
+
+aside {
+  float: right;
+  /*kako da napravam da odi desno niz cela strana?*/
+  margin: 0 1.5%;
+  width: 30%;
+  vertical-align: baseline;
+}
+
+
+body{
+	text-align: justify;
+
+}
+
+
+form dd{
+	font-family: Calistoga;
+}
+
+
+dt{
+	font-size: 120%;
+	text-transform: capitalize;
+	
+
+
+@font-face{
+	src: url('../fonts/Cali.ttf');
+	font-family: 'Calistoga', cursive;
+
+
+}
+
+footer  a{
+
+	font-family: 'Calistoga'; 
+
+}
